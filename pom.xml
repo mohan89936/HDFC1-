@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>se.hiq.oss.qa</groupId>
+    <artifactId>qa-parent-pom</artifactId>
+    <version>0.1</version>
+  </parent>
+  <artifactId>HDFC1</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>HDFC PROJECT</name>
+  <description>HDFC PROJECT description</description>
+  <url>https://bitbucket.org/hiq-oss/HDFC1</url>
+
+  <scm>
+    <url>https://bitbucket.org/hiq-oss/HDFC1</url>
+    <connection>scm:git:https://bitbucket.org/hiq-oss/HDFC1.git</connection>
+    <developerConnection>scm:git:https://bitbucket.org/hiq-oss/HDFC1.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
+
+  <developers>
+    <developer>
+      <id>wigforss</id>
+      <name>Rikard Wigforss</name>
+      <email>rikard.wigforss@hiq.se</email>
+    </developer>
+  </developers>
+
+
+  <dependencies>
+
+  </dependencies>
+
+
+  <build>
+  </build>
+
+
+</project>
